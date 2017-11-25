@@ -6,7 +6,7 @@
         id="mob.app.dev.chart"
         version="1.0.0">
 
-    <name>Week 9 - Chart</name>
+    <name>Week 9 - Chart Movement</name>
 
     <description>
         A sample application that charts acceleromater output
